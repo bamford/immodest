@@ -16,7 +16,6 @@ Status reports for developers
     :target: https://travis-ci.org/bamford/immodest
     :alt: Test Status
 
-.. image:: https://coveralls.io/repos/bamford/immodest/badge.svg
-   :target: https://coveralls.io/r/bamford/immodest
+.. image:: https://coveralls.io/repos/bamford/immodest/badge.svg?branch=master&service=github
+   :target: https://coveralls.io/r/bamford/immodest?branch=master
    :alt: Coverage Status
-           
