@@ -9,7 +9,7 @@ Image Model Estimator
 
 Universal modelling of galaxy structure in arbitrary sets of image data
 
-Status reports for developers
+Status reports
 -----------------------------
 
 .. image:: https://travis-ci.org/bamford/immodest.png?branch=master
@@ -19,3 +19,7 @@ Status reports for developers
 .. image:: https://coveralls.io/repos/bamford/immodest/badge.svg?branch=master&service=github
    :target: https://coveralls.io/r/bamford/immodest?branch=master
    :alt: Coverage Status
+
+.. image:: https://readthedocs.org/projects/immodest/badge/?version=latest
+    :target: https://readthedocs.org/projects/immodest/?badge=latest
+    :alt: Documentation Status
