@@ -12,9 +12,9 @@ Universal modelling of galaxy structure in arbitrary sets of image data
 Status reports
 -----------------------------
 
-.. image:: https://travis-ci.org/bamford/immodest.png?branch=master
+.. image:: https://travis-ci.org/bamford/immodest.svg
     :target: https://travis-ci.org/bamford/immodest
-    :alt: Test Status
+    :alt: Travis Status
 
 .. image:: https://coveralls.io/repos/bamford/immodest/badge.svg?branch=master&service=github
    :target: https://coveralls.io/r/bamford/immodest?branch=master
