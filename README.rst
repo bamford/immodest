@@ -10,7 +10,6 @@ Image Model Estimator
 Universal modelling of galaxy structure in arbitrary sets of image data
 
 Status reports
------------------------------
 
 .. image:: https://travis-ci.org/bamford/immodest.svg
     :target: https://travis-ci.org/bamford/immodest
